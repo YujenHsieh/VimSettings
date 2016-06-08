@@ -26,3 +26,6 @@
 
 noremap <silent> <F2> :NERDTreeToggle<CR>
 noremap <silent> <F3> :TagbarToggle<CR>
+
+nnoremap <silent> <S-Tab> :bprevious<CR>
+nnoremap <silent> <Tab> :bnext<CR>
